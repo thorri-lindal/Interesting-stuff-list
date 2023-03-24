@@ -12,7 +12,7 @@
 
 # Must have apps (fresh install)
 
-Tailscale
-ExpressVPN
-F.Lux
-LuLu & ReiKey
+* Tailscale
+* ExpressVPN
+* F.Lux
+* LuLu & ReiKey
