@@ -8,3 +8,11 @@
 ### CLI
 [Googler](https://github.com/jarun/googler)
 
+
+
+# Must have apps (fresh install)
+
+Tailscale
+ExpressVPN
+F.Lux
+LuLu & ReiKey
