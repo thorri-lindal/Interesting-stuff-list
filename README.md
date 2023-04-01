@@ -16,3 +16,7 @@
 * ExpressVPN
 * F.Lux
 * LuLu & ReiKey
+
+# Apps
+
+* [Marktext](https://github.com/marktext/marktext)
