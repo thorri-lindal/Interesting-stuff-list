@@ -1,22 +1,43 @@
-# Websites
-[ngrok](https://www.brow.sh/docs/introduction/)
+# Favorites
 
+Table of contents
+
+[Websites](###Websites)
+
+## Apps
+
+### must have:
+
+- Tailscale
+- ExpressVPN
+- F.Lux
+- [LuLu](https://objective-see.org/products/lulu.html)
+- [ReiKey](https://objective-see.org/products/reikey.html)
+
+### Websites
+
+[ngrok](https://www.brow.sh/docs/introduction/)
 [BROWSH](https://www.brow.sh/)
 
-
-# Favorite Github Repositories
 ### CLI
+
 [Googler](https://github.com/jarun/googler)
 
+### File Manager
 
+- Path Finder
+  
+- Ranger (CLI)  
+  
+- Forklift
+  
 
-# Must have apps (fresh install)
+### Word Processing
 
-* Tailscale
-* ExpressVPN
-* F.Lux
-* LuLu & ReiKey
+- [Marktext](https://github.com/marktext/marktext)
+- VimR
+- MacDown
 
-# Apps
+### Cheatsheets
 
-* [Marktext](https://github.com/marktext/marktext)
+- [Vim Cheatsheet](https://devhints.io/vim)
