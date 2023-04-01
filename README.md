@@ -1,12 +1,12 @@
-# Favorites
+# Favorites
 
 Table of contents
 
 [Websites](###Websites)
 
-## Apps
+## Apps
 
-### must have:
+### must have:
 
 - Tailscale
 - ExpressVPN
@@ -14,7 +14,7 @@ Table of contents
 - [LuLu](https://objective-see.org/products/lulu.html)
 - [ReiKey](https://objective-see.org/products/reikey.html)
 
-### Websites
+### Websites
 
 [ngrok](https://www.brow.sh/docs/introduction/)
 [BROWSH](https://www.brow.sh/)
@@ -23,7 +23,7 @@ Table of contents
 
 [Googler](https://github.com/jarun/googler)
 
-### File Manager
+### File Manager
 
 - Path Finder
   
