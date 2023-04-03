@@ -15,19 +15,15 @@ Table of contents
 - [ReiKey](https://objective-see.org/products/reikey.html)
 
 ### Apps
-* App Cleaner
-* balenaEtcher
-* Bear
-* Bitwarden
-* Cakebrew
+* [App Cleaner](https://freemacsoft.net/appcleaner/) - Very handy drag-and-drop app uninstaller with residual cleaner
+* [balenaEtcher](https://www.balena.io/etcher) - Bootable Image Writer
+* [Bear](https://bear.app/) - Markdown writer that supports iOS
+* [Cakebrew](https://www.cakebrew.com/) - Delicious Mac App / GUI for Brew applications
 * Calibre
-* Cursor
-* Espanso
-* GPG Keychain
-* Hyper
+* [Cursor](https://www.cursor.so/) - Code IDE partnered with OpenAI with chat and code generation
+* [Espanso](https://espanso.org/) - My favorite text-expander, privacy focused.
 * IINA
 * iTerm
-* Krita
 * Macs Fan Control
 * Meld
 * MikTeX Console
