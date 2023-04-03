@@ -13,6 +13,10 @@ Table of contents
 - F.Lux
 - [LuLu](https://objective-see.org/products/lulu.html)
 - [ReiKey](https://objective-see.org/products/reikey.html)
+- [Espanso](https://espanso.org/) - My favorite text-expander, privacy focused.
+- [Permanent Eraser](https://www.macupdate.com/app/mac/14776/permanent-eraser) - drag-and-drop permanent file eraser.
+- [Rectangle](https://rectangleapp.com/) - Win-style windows resizer for mac.
+- [ImageOptim](https://imageoptim.com/mac) - Drag-and-drop image resizer, works with most image types, many different algorithms.
 
 ### Apps
 * [App Cleaner](https://freemacsoft.net/appcleaner/) - Very handy drag-and-drop app uninstaller with residual cleaner
@@ -21,15 +25,12 @@ Table of contents
 * [Cakebrew](https://www.cakebrew.com/) - Delicious Mac App / GUI for Brew applications
 * Calibre
 * [Cursor](https://www.cursor.so/) - Code IDE partnered with OpenAI with chat and code generation
-* [Espanso](https://espanso.org/) - My favorite text-expander, privacy focused.
 * IINA
 * iTerm
 * Macs Fan Control
 * Meld
 * MikTeX Console
 * OpenEmu
-* PeaZip
-* Permanent Eraser
 * Processing
 * Rectangle
 * SampleBrain
@@ -41,10 +42,9 @@ Table of contents
 * VSCodium
 
 ### Backup Software
-* Jottacloud
+* [Jottacloud](https://www.jottacloud.com/en/) - Unlimited storage, hosted in Norway, GDPR compliant privacy focused cloud storage.
 
 ### CLI
-[Googler](https://github.com/jarun/googler)
 [ngrok](https://www.brow.sh/docs/introduction/)
 [BROWSH](https://www.brow.sh/)
 
