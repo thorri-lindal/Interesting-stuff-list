@@ -8,15 +8,23 @@ Table of contents
 
 ### must have:
 
-- Tailscale
-- ExpressVPN
-- F.Lux
-- [LuLu](https://objective-see.org/products/lulu.html)
-- [ReiKey](https://objective-see.org/products/reikey.html)
-- [Espanso](https://espanso.org/) - My favorite text-expander, privacy focused.
-- [Permanent Eraser](https://www.macupdate.com/app/mac/14776/permanent-eraser) - drag-and-drop permanent file eraser.
-- [Rectangle](https://rectangleapp.com/) - Win-style windows resizer for mac.
-- [ImageOptim](https://imageoptim.com/mac) - Drag-and-drop image resizer, works with most image types, many different algorithms.
+* Tailscale
+
+* ExpressVPN
+
+* F.Lux
+
+* [LuLu](https://objective-see.org/products/lulu.html)
+
+* [ReiKey](https://objective-see.org/products/reikey.html)
+
+* [Espanso](https://espanso.org/) - My favorite text-expander, privacy focused.
+
+* [Permanent Eraser](https://www.macupdate.com/app/mac/14776/permanent-eraser) - drag-and-drop permanent file eraser.
+
+* [Rectangle](https://rectangleapp.com/) - Win-style windows resizer for mac.
+
+* [ImageOptim](https://imageoptim.com/mac) - Drag-and-drop image resizer, works with most image types, many different algorithms.
 
 ### Apps
 * [Cursor](https://www.cursor.so/) - Code IDE partnered with OpenAI with chat and code generation
