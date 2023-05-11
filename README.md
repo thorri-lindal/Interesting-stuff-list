@@ -29,9 +29,10 @@ Table of contents
 ### Apps
 * [Cursor](https://www.cursor.so/) - Code IDE partnered with OpenAI with chat and code generation
 
-IINA: A modern media player for macOS that supports a wide range of video and audio formats and provides advanced playback features.
+* IINA: A modern media player for macOS that supports a wide range of video and audio formats and provides advanced playback features.
 
-Calibre: An ebook management tool for organizing, converting, and reading ebooks on multiple platforms.
+* Calibre: An ebook management tool for organizing, converting, and reading ebooks on multiple platforms.
+
 * [Cakebrew](https://www.cakebrew.com/): A GUI client for Homebrew package manager on macOS that allows users to manage and install packages using a graphical interface.
 
 * [Bear](https://bear.app/): A note-taking app for macOS and iOS with a simple and intuitive interface, support for Markdown formatting, and cross-device syncing.
@@ -88,6 +89,9 @@ Calibre: An ebook management tool for organizing, converting, and reading ebooks
 - [Marktext](https://github.com/marktext/marktext)
 - VimR
 - MacDown
+- Zettlr
+- LaTex
+- MikTex
 
 ### Cheatsheets
 - [Vim Cheatsheet](https://devhints.io/vim)
