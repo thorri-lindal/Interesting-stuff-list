@@ -65,7 +65,9 @@ Table of contents
 
 * TeraCopy: A file copy and transfer utility that provides faster and more reliable file transfers than the default Windows file transfer tool.
 
-* Zettlr: A markdown editor designed for academics and researchers that allows users to write, organize, and cite research papers and documents.
+* Parsec: Remote Desktop
+
+
 
 * VSCodium: A free and open-source version of Microsoft's Visual Studio Code editor without the proprietary features and telemetry.
 
@@ -92,6 +94,21 @@ Table of contents
 - Zettlr
 - LaTex
 - MikTex
+- Zettlr: A markdown editor designed for academics and researchers that allows users to write, organize, and cite research papers and documents.
 
 ### Cheatsheets
 - [Vim Cheatsheet](https://devhints.io/vim)
+
+# Network Tools
+- [NextDNS](https://nextdns.io)
+- [UnRaid](https://unraid.net/)
+- 
+
+# Programming
+
+## Python Libraries
+- [NeuralProphet](https://neuralprophet.com/)
+- 
+
+# Tech
+[reelyActive](https://context.reelyactive.com/technology.html)
