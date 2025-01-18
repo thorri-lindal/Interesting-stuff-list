@@ -7,7 +7,7 @@ Table of contents
 ## Apps
 
 ### must have:
-
+<details>
 * Tailscale
 
 * ExpressVPN
@@ -26,6 +26,7 @@ Table of contents
 
 * [ImageOptim](https://imageoptim.com/mac) - Drag-and-drop image resizer, works with most image types, many different algorithms.
 
+</details>
 ### Apps
 * [Cursor](https://www.cursor.so/) - Code IDE partnered with OpenAI with chat and code generation
 
