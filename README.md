@@ -6,11 +6,6 @@
 - ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg): Open-source application
 - ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg): Freeware application
 
-## Table of Contents
-
-- [Websites](#websites)
-- [Apps](#apps)
-
 ## Websites
 
 <details>
