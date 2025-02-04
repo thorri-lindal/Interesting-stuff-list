@@ -53,7 +53,9 @@
 
 <details>
 <summary>Expand</summary>
+  
 - [OpenEmu](https://openemu.org/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+  
 </details>
 
 ### System Tools & Utilities
