@@ -1,115 +1,116 @@
 # Favorites
 
-Table of contents
+## Table of Contents
 
-[Websites](#Websites)
+- [Websites](#websites)
+- [Apps](#apps)
 
 ## Apps
 
-### must have:
+### Must Have
+
 <details>
-* Tailscale
+<summary>Click to expand</summary>
 
-* ExpressVPN
-
-* F.Lux
-
-* [LuLu](https://objective-see.org/products/lulu.html)
-
-* [ReiKey](https://objective-see.org/products/reikey.html)
-
-* [Espanso](https://espanso.org/) - My favorite text-expander, privacy focused.
-
-* [Permanent Eraser](https://www.macupdate.com/app/mac/14776/permanent-eraser) - drag-and-drop permanent file eraser.
-
-* [Rectangle](https://rectangleapp.com/) - Win-style windows resizer for mac.
-
-* [ImageOptim](https://imageoptim.com/mac) - Drag-and-drop image resizer, works with most image types, many different algorithms.
+- [Tailscale](https://tailscale.com/)
+- [ExpressVPN](https://www.expressvpn.com/)
+- [F.Lux](https://justgetflux.com/)
+- [LuLu](https://objective-see.org/products/lulu.html) 🍏
+- [ReiKey](https://objective-see.org/products/reikey.html) 🍏
+- [Espanso](https://espanso.org/) - My favorite text-expander, privacy-focused.
+- [Permanent Eraser](https://www.edenwaith.com/products/permanent%20eraser/) 🍏 - Drag-and-drop permanent file eraser.
+- [ImageOptim](https://imageoptim.com/mac) 🍏 - Drag-and-drop image resizer, works with most image types, many different algorithms.
 
 </details>
-### Apps
-* [Cursor](https://www.cursor.so/) - Code IDE partnered with OpenAI with chat and code generation
 
-* IINA: A modern media player for macOS that supports a wide range of video and audio formats and provides advanced playback features.
+### Media Players
 
-* Calibre: An ebook management tool for organizing, converting, and reading ebooks on multiple platforms.
+- [IINA](https://iina.io/) 🍏
+- [OpenEmu](https://openemu.org/) - An open-source video game emulator.
 
-* [Cakebrew](https://www.cakebrew.com/): A GUI client for Homebrew package manager on macOS that allows users to manage and install packages using a graphical interface.
+### System Tools & Utilities
 
-* [Bear](https://bear.app/): A note-taking app for macOS and iOS with a simple and intuitive interface, support for Markdown formatting, and cross-device syncing.
+- [Homebrew](https://brew.sh/) 🍏
+- [Onyx](https://www.titanium-software.fr/en/onyx.html/) 🍏
+- [Stats](https://github.com/exelban/stats) 🍏
+- [Dozer](https://github.com/Mortennn/Dozer) 🍏
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) 🍏
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) 🍏
+- [AltTab](https://alt-tab-macos.netlify.app/) 🍏
+- [Macs Fan Control](https://crystalidea.com/macs-fan-control)
 
-* [balenaEtcher](https://www.balena.io/etcher): An open-source utility for flashing disk images to USB drives and SD cards for use in embedded systems and IoT devices.
+### Window & Display Management
 
-* [App Cleaner](https://freemacsoft.net/appcleaner/): An uninstaller for macOS that allows users to completely remove unwanted applications and their associated files from their system.
+- [Rectangle](https://rectangleapp.com/) 🍏
+- [RDM (Resolution Display Menu)](https://github.com/avibrazil/RDM) 🍏
 
-* iTerm
+### Development & Terminal
 
-* Macs Fan Control
+- [VSCodium](https://vscodium.com/) 🍏
+- [Cursor](https://www.cursor.so/) - Code IDE partnered with OpenAI.
+- [Alacritty](https://alacritty.org/) 🍏
+- [Fish](https://fishshell.com/) 🍏
+- [iTerm2](https://iterm2.com/) - A powerful terminal emulator.
 
-* Meld: A visual diff and merge tool for files and directories.
+### Productivity & Note-Taking
 
-* MikTeX Console: A typesetting system that allows users to generate high-quality documents with mathematical and scientific content.
+- [Simplenote](https://simplenote.com/) 🍏
+- [Bear](https://bear.app/) - A note-taking app with Markdown support.
+- [MarkText](https://github.com/marktext/marktext)
+- [MacDown](https://macdown.uranusjr.com/) 🍏
+- [Zettlr](https://www.zettlr.com/) 🍏
 
-* OpenEmu: An open-source video game emulator that allows users to play classic games from various platforms on their computer.
+### File Management
 
-* Processing: A programming language and development environment for artists, designers, and educators to create visual and interactive art and design projects.
+- [Better Rename](https://www.publicspace.net/BetterRename/) 🍏
+- [Path Finder](https://cocoatech.com/#/)
+- [Ranger](https://ranger.github.io/) (CLI)
+- [Forklift](https://binarynights.com/)
+- [App Cleaner](https://freemacsoft.net/appcleaner/) - A macOS uninstaller.
 
-* Rectangle: A window management tool for macOS that allows users to easily resize and move windows using keyboard shortcuts.
+### Screenshot & Image Tools
 
-* SampleBrain: A software tool for organizing and managing digital samples and sound files.
+- [Lightshot](https://app.prntscr.com/en/index.html) 🍏
 
-* Shapr3D: A professional 3D modeling software designed for iPad and Apple Pencil, allowing users to create and edit 3D models with precision and ease.
+### Security & Privacy
 
-* SoulSeekQt: A peer-to-peer file-sharing program that focuses on sharing music files and creating a community of music enthusiasts.
-
-* Tailscale: A virtual private network (VPN) solution for secure remote access and network connectivity.
-
-* TeraCopy: A file copy and transfer utility that provides faster and more reliable file transfers than the default Windows file transfer tool.
-
-* Parsec: Remote Desktop
-
-
-
-* VSCodium: A free and open-source version of Microsoft's Visual Studio Code editor without the proprietary features and telemetry.
+- [LuLu](https://objective-see.org/products/lulu.html) 🍏
+- [ReiKey](https://objective-see.org/products/reikey.html) 🍏
 
 ### Backup Software
-* [Jottacloud](https://www.jottacloud.com/en/) - Unlimited storage, hosted in Norway, GDPR compliant privacy focused cloud storage.
+
+- [Jottacloud](https://www.jottacloud.com/en/) - Unlimited storage, hosted in Norway, GDPR-compliant, privacy-focused cloud storage.
 
 ### Browser Addons
-* Consent-o-matic - Gets rid of those pesky 'accept cookies' windows automatically
-* U-Block origin - After trying all the different ad blockers, I like this one the best
 
-### CLI
-[ngrok](https://www.brow.sh/docs/introduction/)
-[BROWSH](https://www.brow.sh/)
+- [Consent-o-matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) - Gets rid of those pesky 'accept cookies' windows automatically.
+- [uBlock Origin](https://ublockorigin.com/) - After trying all the different ad blockers, I like this one the best.
 
-### File Manager
-- Path Finder
-- Ranger (CLI)  
-- Forklift
+### CLI Tools
 
-### Word Processing
-- [Marktext](https://github.com/marktext/marktext)
-- VimR
-- MacDown
-- Zettlr
-- LaTex
-- MikTex
-- Zettlr: A markdown editor designed for academics and researchers that allows users to write, organize, and cite research papers and documents.
+- [ngrok](https://ngrok.com/)
+- [Browsh](https://www.brow.sh/)
 
-### Cheatsheets
-- [Vim Cheatsheet](https://devhints.io/vim)
+### Network Tools
 
-# Network Tools
 - [NextDNS](https://nextdns.io)
 - [UnRaid](https://unraid.net/)
-- 
 
-# Programming
+### Programming
 
-## Python Libraries
+#### Python Libraries
+
 - [NeuralProphet](https://neuralprophet.com/)
-- 
 
-# Tech
-[reelyActive](https://context.reelyactive.com/technology.html)
+### Word Processing & Typesetting
+
+- [LaTeX](https://www.latex-project.org/)
+- [MiKTeX](https://miktex.org/)
+
+### Cheatsheets
+
+- [Vim Cheatsheet](https://devhints.io/vim)
+
+## Tech
+
+- [reelyActive](https://context.reelyactive.com/technology.html)
