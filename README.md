@@ -22,29 +22,84 @@
 
 ## Apps
 
+### Must Have
+
+<details>
+<summary>Expand</summary>
+
+- [Homebrew](https://brew.sh/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Tailscale](https://tailscale.com/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [ExpressVPN](https://www.expressvpn.com/)
+- [F.Lux](https://justgetflux.com/)
+- [LuLu](https://objective-see.org/products/lulu.html) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [ReiKey](https://objective-see.org/products/reikey.html) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Espanso](https://espanso.org/) - My favorite text-expander, privacy-focused. ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Permanent Eraser](https://www.edenwaith.com/products/permanent%20eraser/) 🍏 ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
+- [ImageOptim](https://imageoptim.com/mac) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
+
+</details>
+
+### Media Players
+
+<details>
+<summary>Expand</summary>
+
+- [IINA](https://iina.io/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [OpenEmu](https://openemu.org/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+
+</details>
+
+### Gaming
+
+<details>
+<summary>Expand</summary>
+- [OpenEmu](https://openemu.org/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+</details>
+
+### System Tools & Utilities
+
+<details>
+<summary>Expand</summary>
+
+- [Onyx](https://www.titanium-software.fr/en/onyx.html) 🍏 ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
+- [Stats](https://github.com/exelban/stats) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Dozer](https://github.com/Mortennn/Dozer) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) 🍏 ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) 🍏
+- [AltTab](https://alt-tab-macos.netlify.app/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Macs Fan Control](https://crystalidea.com/macs-fan-control) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
+
+</details>
+
 ### Productivity & Note-Taking
 
 <details>
 <summary>Expand</summary>
 
 - [Simplenote](https://simplenote.com/) 🍏 ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-- [Bear](https://bear.app/) 🍏
-- [MarkText](https://github.com/marktext/marktext) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
-- [MacDown](https://macdown.uranusjr.com/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
-- [Zettlr](https://www.zettlr.com/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
 
 </details>
 
-### File Management
+### Window & Display Management
 
 <details>
 <summary>Expand</summary>
 
-- [Better Rename](https://www.publicspace.net/BetterRename/) 🍏
-- [Path Finder](https://cocoatech.com/#/)
-- [Ranger](https://ranger.github.io/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
-- [Forklift](https://binarynights.com/)
-- [App Cleaner](https://freemacsoft.net/appcleaner/) 🍏 ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
+- [Rectangle](https://rectangleapp.com/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [RDM (Resolution Display Menu)](https://github.com/avibrazil/RDM) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+
+</details>
+
+### Development & Terminal
+
+<details>
+<summary>Expand</summary>
+
+- [VSCodium](https://vscodium.com/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Cursor](https://www.cursor.so/)
+- [Alacritty](https://alacritty.org/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [Fish](https://fishshell.com/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
+- [iTerm2](https://iterm2.com/) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg)
 
 </details>
 
@@ -54,80 +109,19 @@
 <summary>Expand</summary>
 
 - [Lightshot](https://app.prntscr.com/en/index.html) 🍏 ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-- [ImageOptim](https://imageoptim.com/mac) 🍏 ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
 
 </details>
 
-### Backup Software
+### File Management
 
 <details>
 <summary>Expand</summary>
 
-- [Jottacloud](https://www.jottacloud.com/en/) - Unlimited storage, hosted in Norway, GDPR-compliant, privacy-focused cloud storage. ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
+- [Better Rename](https://www.publicspace.net/BetterRename/) 🍏
 
 </details>
 
-### Browser Addons
-
-<details>
-<summary>Expand</summary>
-
-- [Consent-o-matic](https://addons.mozilla.org/en-US/firefox/addon/consent-o-matic/) - Gets rid of those pesky 'accept cookies' windows automatically. ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-- [uBlock Origin](https://ublockorigin.com/) - After trying all the different ad blockers, I like this one the best. ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-
-</details>
-
-### CLI Tools
-
-<details>
-<summary>Expand</summary>
-
-- [ngrok](https://ngrok.com/) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-- [Browsh](https://www.brow.sh/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-
-</details>
-
-### Network Tools
-
-<details>
-<summary>Expand</summary>
-
-- [NextDNS](https://nextdns.io) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-- [UnRaid](https://unraid.net/)
-
-</details>
-
-### Programming
-
-<details>
-<summary>Expand</summary>
-
-#### Python Libraries
-
-- [NeuralProphet](https://neuralprophet.com/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-
-</details>
-
-### Word Processing & Typesetting
-
-<details>
-<summary>Expand</summary>
-
-- [LaTeX](https://www.latex-project.org/) ![Open Source](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/open.svg) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-- [MiKTeX](https://miktex.org/) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-
-</details>
-
-### Cheatsheets
-
-<details>
-<summary>Expand</summary>
-
-- [Vim Cheatsheet](https://devhints.io/vim) ![Freeware](https://raw.githubusercontent.com/thorri-lindal/Interesting/main/free.svg)
-
-</details>
-
-## Tech
+### Tech
 
 <details>
 <summary>Expand</summary>
